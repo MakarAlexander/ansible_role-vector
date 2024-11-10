@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  author: Makartsev Alexander
+  description: Ansible Role for Vector installation
+  license: MIT
+  min_ansible_version: "2.11"
+  role_name: ansible_role_vector
+  namespace: MakarAlexander
+
+dependencies: []
